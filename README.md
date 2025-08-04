@@ -40,7 +40,7 @@
 - 📧 Email: maliksannanali12345@gmail.com
 - 🌐 Portfolio: (Coming Soon)
 - 💼 LinkedIn: (Coming Soon)
-- 💼 Medium:   (Coming Soon)
+- 💼 Medium:  https://medium.com/@Sannan_Ali
 - 🐍 GitHub: [sannanfusion](https://github.com/sannanfusion)
 
 ---
