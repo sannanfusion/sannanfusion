@@ -1,48 +1,54 @@
 <h1 align="center">Hi, I'm Sannan 👋</h1>
 
 <p align="center">
-  <strong>QA Tester | Python Developer | HTML/CSS Expert | WordPress Enthusiast</strong><br/>
+  <strong>QA Tester | Python Developer | HTML/CSS  Expert | WordPress Enthusiast</strong><br/>
   💻 Passionate about clean, tested, and scalable code. <br/>
   🌍 Open to remote work and internships | Freelancer from Pakistan.
 </p>
 
----
+### 💡 About Me
 
-### 🚀 About Me
-
-- 🔍 Currently doing a **QA Tester course**
-- 💡 Completed **Python** and advanced in **HTML/CSS**
-- 🛠️ Skilled in **WordPress Development**
-- 📚 Pursuing **BSCS from Virtual University**
-- 🏆 Building a strong public profile for **international scholarships** and remote jobs
+- ✍️ Writing insightful technical articles on [Medium](https://sannanal.medium.com)  
+- 🧪 Practicing real-world QA Testing with Python  
+- 🌍 Passionate about clean front-end designs using WordPress and HTML/CSS  
+- 📫 Reach me at: `maliksannanali12345@gmail.com`
 
 ---
 
-### 💼 Tools & Technologies
+### 🧰 Skills
 
-- ✔️ **Languages**: Python, HTML5, CSS3
-- 🧪 **QA Tools**: Manual Testing, Bug Reporting, Test Cases
-- 🖥️ **CMS**: WordPress
-- 🔧 **Other Tools**: Git, GitHub, VS Code, Chrome DevTools
+**Languages:**  
+`Python` | `HTML5` | `CSS3`
 
----
-
-### 📂 Portfolio Repositories
-
-- 📁 `python-projects` – All my Python practice & real-world scripts
-- 📁 `html-css-projects` – UI/UX layouts, components & responsive websites
-
+**Soft Skills:**  
+`Attention to Detail` | `Documentation` | `Time Management`
 
 ---
 
-### 📬 Let's Connect
-
-- 📧 Email: maliksannanali12345@gmail.com
-- 🌐 Portfolio: (Coming Soon)
-- 💼 LinkedIn: (Coming Soon)
-- 💼 Medium:  https://medium.com/@Sannan_Ali
-- 🐍 GitHub: [sannanfusion](https://github.com/sannanfusion)
+### 📌 Projects
+(Coming Soon)
 
 ---
+
+### ✍️ My Articles on Medium
+
+(Coming Soon)
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sannanfusion&show_icons=true&theme=default" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  
+   <a href="https://medium.com/@Sannan_Ali"><img src="https://img.shields.io/badge/Medium-black?logo=medium" /></a>
+</p>
+
 
 > ⚡ *Currently working on real-world coding projects and preparing for internships. Follow to see updates!*
