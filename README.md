@@ -8,7 +8,7 @@
 
 ### 💡 About Me
 
-- ✍️ Writing insightful technical articles on [Medium](https://sannanal.medium.com)  
+- ✍️ Writing insightful technical articles on [Medium](https://medium.com/@Sannan_Ali)  
 - 🧪 Practicing real-world QA Testing with Python  
 - 🌍 Passionate about clean front-end designs using WordPress and HTML/CSS  
 - 📫 Reach me at: `maliksannanali12345@gmail.com`
@@ -46,7 +46,7 @@
 ### 🌐 Let's Connect
 
 <p align="center">
-  
+    <a href="https://www.linkedin.com/in/sannan-ali-869920378/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
    <a href="https://medium.com/@Sannan_Ali"><img src="https://img.shields.io/badge/Medium-black?logo=medium" /></a>
 </p>
 
