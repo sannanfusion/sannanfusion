@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sannan 👋</h1>
 
 <p align="center">
-  <strong>QA Tester | Python Developer | HTML/CSS  Expert | WordPress Enthusiast</strong><br/>
+  <strong>QA Tester | Python Developer | HTML/CSS Javascript  Expert | WordPress Enthusiast</strong><br/>
   💻 Passionate about clean, tested, and scalable code. <br/>
   🌍 Open to remote work and internships | Freelancer from Pakistan.
 </p>
@@ -10,7 +10,7 @@
 
 - ✍️ Writing insightful technical articles on [Medium](https://medium.com/@Sannan_Ali)  
 - 🧪 Practicing real-world QA Testing with Python  
-- 🌍 Passionate about clean front-end designs using WordPress and HTML/CSS  
+- 🌍 Passionate about clean front-end designs using WordPress and HTML/CSS & Javascript
 - 📫 Reach me at: `maliksannanali12345@gmail.com`
 
 ---
@@ -26,14 +26,12 @@
 ---
 
 ### 📌 Projects
-(Coming Soon)
+  https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Html-Css-Javascript/calculator
 
 ---
 
 ### ✍️ My Articles on Medium
-
-(Coming Soon)
----
+ > https://medium.com/@Sannan_Ali/how-your-children-can-start-coding-at-an-early-age-89811cc2496a
 
 ### 📈 GitHub Stats
 
