@@ -30,12 +30,14 @@
 
 ### 📌 Projects
 - [Calculator Project](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Html-Css-Javascript/calculator)
+- [To-Do List Project](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Html-Css-Javascript/To-do-list)
+- [Python Number Guessing Game](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/python/number-guessing-game)
 
 ---
 
 ### ✍️ My Articles on Medium
 - [How Your Children Can Start Coding at an Early Age](https://medium.com/@Sannan_Ali/how-your-children-can-start-coding-at-an-early-age-89811cc2496a)
-
+- [My Go-To Tools as a Young Coder](https://medium.com/@Sannan_Ali/my-go-to-tools-as-a-young-coder-768f56d79be1)
 ---
 
 ### 📈 GitHub Stats
