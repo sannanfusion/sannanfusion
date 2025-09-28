@@ -32,7 +32,7 @@
 - [Calculator Project](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Html-Css-Javascript/calculator)
 - [To-Do List Project](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Html-Css-Javascript/To-do-list)
 - [Python Number Guessing Game](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/python/number-guessing-game)
-
+- [Fastfood-Landing-Page](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Html-Css-Javascript/Fastfood-Landing-Page)
 ---
 
 ### ✍️ My Articles on Medium
