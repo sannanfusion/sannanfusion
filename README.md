@@ -41,7 +41,7 @@
 - [How I Built a Simple Website Without Any Experience](https://medium.com/@Sannan_Ali/how-i-built-a-simple-website-without-any-experience-ae5d3d544bb2)
 - [Solving Real Problems in Pakistan with Technology: A Teen’s Perspective](https://medium.com/@Sannan_Ali/solving-real-problems-in-pakistan-with-technology-a-teens-perspective-f5228da0d0d7)
 - [Why Every Student Needs to Learn to Code (Even Just a Little)](https://medium.com/@Sannan_Ali/why-every-student-needs-to-learn-to-code-even-just-a-little-e4de3e746261)
-  
+- [Managing University, Coding, and Life as a Teen](https://medium.com/@Sannan_Ali/managing-university-coding-and-life-as-a-teen-08cceaf97b15)
 
 ### 📈 GitHub Stats
 
