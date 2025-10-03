@@ -43,6 +43,7 @@
 - [Solving Real Problems in Pakistan with Technology: A Teen’s Perspective](https://medium.com/@Sannan_Ali/solving-real-problems-in-pakistan-with-technology-a-teens-perspective-f5228da0d0d7)
 - [Why Every Student Needs to Learn to Code (Even Just a Little)](https://medium.com/@Sannan_Ali/why-every-student-needs-to-learn-to-code-even-just-a-little-e4de3e746261)
 - [Managing University, Coding, and Life as a Teen](https://medium.com/@Sannan_Ali/managing-university-coding-and-life-as-a-teen-08cceaf97b15)
+- [A Beginner’s Look at GitHub and How It Helps Me as a Student Coder](https://medium.com/@Sannan_Ali/a-beginners-look-at-github-and-how-it-helps-me-as-a-student-coder-0c92c8a7887e)
 
 ### 📈 GitHub Stats
 
