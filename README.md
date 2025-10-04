@@ -44,6 +44,7 @@
 - [Why Every Student Needs to Learn to Code (Even Just a Little)](https://medium.com/@Sannan_Ali/why-every-student-needs-to-learn-to-code-even-just-a-little-e4de3e746261)
 - [Managing University, Coding, and Life as a Teen](https://medium.com/@Sannan_Ali/managing-university-coding-and-life-as-a-teen-08cceaf97b15)
 - [A Beginner’s Look at GitHub and How It Helps Me as a Student Coder](https://medium.com/@Sannan_Ali/a-beginners-look-at-github-and-how-it-helps-me-as-a-student-coder-0c92c8a7887e)
+- [Things I Wish I Had Known Before Starting Coding](https://medium.com/@Sannan_Ali/things-i-wish-i-had-known-before-starting-coding-ecd2676994f8)
 
 ### 📈 GitHub Stats
 
