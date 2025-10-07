@@ -46,7 +46,7 @@
 - [Managing University, Coding, and Life as a Teen](https://medium.com/@Sannan_Ali/managing-university-coding-and-life-as-a-teen-08cceaf97b15)
 - [A Beginner’s Look at GitHub and How It Helps Me as a Student Coder](https://medium.com/@Sannan_Ali/a-beginners-look-at-github-and-how-it-helps-me-as-a-student-coder-0c92c8a7887e)
 - [Things I Wish I Had Known Before Starting Coding](https://medium.com/@Sannan_Ali/things-i-wish-i-had-known-before-starting-coding-ecd2676994f8)
-
+- [AI Small Business Helper: Building an AI Startup as a Teenager in Pakistan](https://medium.com/@Sannan_Ali/ai-small-business-helper-building-an-ai-startup-as-a-teenager-in-pakistan-27ba047d5f71)
 ### 📈 GitHub Stats
 
 <p align="center">
