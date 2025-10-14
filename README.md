@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>QA Tester | Python Developer | HTML/CSS/JavaScript Expert | WordPress Enthusiast</strong><br/>
-  💻 Passionate about clean, tested, and scalable code. <br/>
+  💻 Passionate about Clean, Tested, and Scalable code. <br/>
   🌍 Open to remote work and Internships | Freelancer from Pakistan.
 </p>
 
