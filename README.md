@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sannan 👋</h1>
 
 <p align="center">
-  <strong>QA Tester | Python Developer | HTML/CSS/JavaScript Expert | WordPress Enthusiast</strong><br/>
+  <strong>QA Tester | Python Developer | HTML/CSS/JavaScript Expert | React & Node.js Explorer | WordPress Enthusiast</strong><br/>
   💻 Passionate about Clean, Tested, and Scalable code. <br/>
   🌍 Open to remote work and Internships | Freelancer from Pakistan.
 </p>
