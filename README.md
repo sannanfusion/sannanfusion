@@ -36,6 +36,7 @@
 - [Image,Text-to-pdf-converter](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Html-Css-Javascript/Image%2CText-to-pdf-converter)
 - [signup-login-page](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Html-Css-Javascript/signup-login-page/login)
 - [Consultry-Landing-Page](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Front-End-Development-Projects/Consultry-Landing-Page)
+
 ---
 
 ### ✍️ My Articles on Medium
@@ -49,6 +50,7 @@
 - [Things I Wish I Had Known Before Starting Coding](https://medium.com/@Sannan_Ali/things-i-wish-i-had-known-before-starting-coding-ecd2676994f8)
 - [AI Small Business Helper: Building an AI Startup as a Teenager in Pakistan](https://medium.com/@Sannan_Ali/ai-small-business-helper-building-an-ai-startup-as-a-teenager-in-pakistan-27ba047d5f71)
 - [Using Zephyr or Jira as a Beginner QA Tester](https://medium.com/@Sannan_Ali/using-zephyr-or-jira-as-a-beginner-qa-tester-2c149873203d)
+- [Bridging the Education Divide: Can AI Help Fix Pakistan’s Learning Gap?](https://medium.com/@Sannan_Ali/bridging-the-education-divide-can-ai-help-fix-pakistans-learning-gap-b0fc83643ca2)
 ### 📈 GitHub Stats
 
 <p align="center">
