@@ -3,7 +3,7 @@
 <p align="center">
   <strong>QA Tester | Python Developer | HTML/CSS/JavaScript Expert | React & Node.js Explorer | WordPress Enthusiast</strong><br/>
   💻 Passionate about Clean, Tested, and Scalable code. <br/>
-  🌍 Open to remote work and Internships | Freelancer From Pakistan.
+  🌍 Open to Remote work and Internships | Freelancer From Pakistan.
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 - ✍️ Writing Insightful technical articles on [Medium](https://medium.com/@Sannan_Ali)  
 - 🧪 Practicing Real-world QA Testing with Python  
-- 🌍 Passionate about clean front-end designs using WordPress and HTML/CSS & JavaScript  
+- 🌍 Passionate about clean front-end designs using WordPress and HTML/CSS & JavaScript 
 - 📫 Reach me at: `maliksannanali12345@gmail.com` 
 
 ---
