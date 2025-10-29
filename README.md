@@ -51,6 +51,7 @@
 - [AI Small Business Helper: Building an AI Startup as a Teenager in Pakistan](https://medium.com/@Sannan_Ali/ai-small-business-helper-building-an-ai-startup-as-a-teenager-in-pakistan-27ba047d5f71)
 - [Using Zephyr or Jira as a Beginner QA Tester](https://medium.com/@Sannan_Ali/using-zephyr-or-jira-as-a-beginner-qa-tester-2c149873203d)
 - [Bridging the Education Divide: Can AI Help Fix Pakistan’s Learning Gap?](https://medium.com/@Sannan_Ali/bridging-the-education-divide-can-ai-help-fix-pakistans-learning-gap-b0fc83643ca2)
+- [Learning Artificial Intelligence And Computer Science at 21: What My Syllabus Don’t Teach Me !](https://medium.com/@Sannan_Ali/learning-artificial-intelligence-and-computer-science-at-21-what-my-syllabus-dont-teach-me-dc28e8599fb2)
 ### 📈 GitHub Stats
 
 <p align="center">
