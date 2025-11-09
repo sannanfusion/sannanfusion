@@ -37,6 +37,8 @@
 - [signup-login-page](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Html-Css-Javascript/signup-login-page/login)
 - [Consultry-Landing-Page](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Front-End-Development-Projects/Consultry-Landing-Page)
 - [My First React Project(Sea Side Stay)](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Front-End-Development-Projects/sea-side-booking)
+- [CryptoCurrencies Live Screen Project](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Front-End-Development-Projects/Live-Crypto-Screen)
+
 ---
 
 ### ✍️ My Articles on Medium
