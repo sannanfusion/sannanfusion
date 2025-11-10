@@ -3,7 +3,7 @@
 <p align="center">
   <strong>QA Tester | Python Developer | HTML/CSS/JavaScript Expert | React & Node.js Explorer | WordPress Enthusiast</strong><br/>
   💻 Passionate about Clean, Tested, and Scalable code. <br/>
-  🌍 Open to Remote work and Internships | Freelancer From Pakistan.
+  🌍 Open to Remote Work and Internships | Freelancer From Pakistan.
 </p>
 
 ---
