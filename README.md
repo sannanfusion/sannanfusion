@@ -80,4 +80,4 @@
 
 ---
 
-⚡ *Currently working on real-world coding projects and preparing for Internships. Follow to see updates!*
+⚡ *Currently working on Real-world coding projects and preparing for Internships. Follow to see updates!*
