@@ -42,7 +42,7 @@
 
 ---
 
-### ✍️ My Articles on Medium
+### ✍️ My Articles On Medium
 - [How Your Children Can Start Coding at an Early Age](https://medium.com/@Sannan_Ali/how-your-children-can-start-coding-at-an-early-age-89811cc2496a)
 - [My Go-To Tools as a Young Coder](https://medium.com/@Sannan_Ali/my-go-to-tools-as-a-young-coder-768f56d79be1)
 - [How I Built a Simple Website Without Any Experience](https://medium.com/@Sannan_Ali/how-i-built-a-simple-website-without-any-experience-ae5d3d544bb2)
