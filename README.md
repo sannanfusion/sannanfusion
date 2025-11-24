@@ -36,7 +36,7 @@
 - [Image,Text-to-pdf-converter](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Html-Css-Javascript/Image%2CText-to-pdf-converter)
 - [signup-login-page](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Html-Css-Javascript/signup-login-page/login)
 - [Consultry-Landing-Page](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Front-End-Development-Projects/Consultry-Landing-Page)
-- [My First React Project(Sea Side Stay)](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Front-End-Development-Projects/sea-side-booking)
+- [My First React Project(Sea-Side-Stay)](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Front-End-Development-Projects/sea-side-booking)
 - [Python-Program-to- Test-Internet -Speed](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/python/Python-Program-to-%20Test-Internet%20-Speed)
 - 
 
