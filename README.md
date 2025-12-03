@@ -59,11 +59,8 @@
 - [How Building Projects Taught Me More Than Any Classroom Lesson](https://medium.com/@Sannan_Ali/how-building-projects-taught-me-more-than-any-classroom-lesson-2d0d9bfdca17)
 - [Why Every Teen in 2025 Needs to Take Cybersecurity Seriously — Before It’s Too Late](https://medium.com/@Sannan_Ali/why-every-teen-in-2025-needs-to-take-cybersecurity-seriously-before-its-too-late-a792984ea006)
 
-  ## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sannanfusion&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Sannan's GitHub Stats" />
-</p>
+![GitHub followers](https://img.shields.io/github/followers/sannanfusion?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/sannanfusion?style=social)
 
 
 
