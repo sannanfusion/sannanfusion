@@ -1,10 +1,12 @@
 <h1 align="center">Hi, I'm Sannan 👋</h1>
 
 <p align="center">
-  <strong>QA Tester | Python Developer | HTML/CSS/JavaScript Expert | React & Node.js Explorer | WordPress Enthusiast</strong><br/>
-  💻 Passionate About Clean, Tested, and Scalable Code. <br/>
-  🌍 Open to Remote Work and Internships | Freelancer From Pakistan.
+  <strong>QA Tester | Python Developer | Frontend Specialist (HTML/CSS/JavaScript) | React & Node.js Learner | WordPress Expert</strong><br/>
+  💻 Dedicated to building clean, tested, and performance-driven digital solutions. <br/>
+  🚀 Passionate about automation, modern web technologies, and real-world problem solving. <br/>
+  🌍 Open to Remote Roles, Internships, and Freelance Projects — Based in Pakistan.
 </p>
+
 
 ---
 
