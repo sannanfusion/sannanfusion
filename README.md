@@ -3,7 +3,7 @@
 <p align="center">
   <strong>QA Tester | Python Developer | Frontend Specialist (HTML/CSS/JavaScript) | React & Node.js Learner | WordPress Expert</strong><br/>
   💻 Dedicated to Building clean, tested, and Performance-driven digital solutions. <br/>
-  🚀 Passionate about Automation, modern web Technologies, and real-world problem solving. <br/>
+  🚀 Passionate about Automation, modern web Technologies, and Real-world problem solving. <br/>
   🌍 Open to Remote Roles, Internships, and Freelance Projects — Based in Pakistan.
 </p>
 
