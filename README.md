@@ -59,7 +59,7 @@
 - [Bridging the Education Divide: Can AI Help Fix Pakistan’s Learning Gap?](https://medium.com/@Sannan_Ali/bridging-the-education-divide-can-ai-help-fix-pakistans-learning-gap-b0fc83643ca2)
 - [Learning Artificial Intelligence And Computer Science at 21, What My Syllabus Don’t Teach Me !](https://medium.com/@Sannan_Ali/learning-artificial-intelligence-and-computer-science-at-21-what-my-syllabus-dont-teach-me-dc28e8599fb2)
 - [How Building Projects Taught Me More Than Any Classroom Lesson](https://medium.com/@Sannan_Ali/how-building-projects-taught-me-more-than-any-classroom-lesson-2d0d9bfdca17)
-- [Why Every Teen in 2025 Needs to Take Cybersecurity Seriously — Before It’s Too Late](https://medium.com/@Sannan_Ali/why-every-teen-in-2025-needs-to-take-cybersecurity-seriously-before-its-too-late-a792984ea006)
+- [Why Every Teen in 2025 Needs to Take CyberSecurity Seriously — Before It’s Too Late](https://medium.com/@Sannan_Ali/why-every-teen-in-2025-needs-to-take-cybersecurity-seriously-before-its-too-late-a792984ea006)
 
 ![GitHub followers](https://img.shields.io/github/followers/sannanfusion?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/sannanfusion?style=social)
