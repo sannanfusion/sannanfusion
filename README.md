@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Ai-Oriented Developer | Frontend Developer | React.js | Technical Article Writer | Python Developer | QA Engineer | WordPress Developer | Learning Ai/Building Ai</strong><br/>
-  💻 Dedicated to Building clean, tested, and Performance-driven Digital solutions. <br/>
+  💻 Dedicated to Building clean, tested, and Performance-Driven Digital solutions. <br/>
   🚀 Passionate about Automation, Modern web Technologies, and Real-World problem solving. <br/>
   🌍 Open to Remote Roles, Internships, and Freelance Projects — Based in Pakistan.
 </p>
