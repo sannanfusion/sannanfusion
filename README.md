@@ -13,7 +13,8 @@
 ### 💡 About Me
 
 - ✍️ Writing Insightful Technical Articles on [Medium](https://medium.com/@Sannan_Ali)  
-- 🧪 Practicing Real-World QA Testing with Python  
+- 🧪 Practicing Real-World QA Testing with Python
+- 🤖 Learning Ai and Building Ai Projects 
 - 🌍 Passionate about clean Front-End Designs using WordPress and HTML/CSS & JavaScript | Love To Work With React.
 - 📫 Reach me at: `maliksannanali12345@gmail.com` 
 
