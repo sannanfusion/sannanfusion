@@ -12,24 +12,24 @@
 
 ### 💡 About Me
 
-- ✍️ Writing Insightful Technical Articles on [Medium](https://medium.com/@Sannan_Ali)  
-- 🧪 Practicing Real-World QA Testing with Python
-- 🤖 Learning Ai and Building Ai Projects 
-- 🌍 Passionate about Clean Front-End Designs using WordPress and HTML/CSS & JavaScript | Love To Work With React.
-- 📫 Reach me at: `maliksannanali12345@gmail.com` 
+✍️ Writing clear, practical technical articles on Medium
 
----
+🧪 Practicing real-world QA testing with Python (manual + logic-driven testing)
+
+🤖 Actively learning Artificial Intelligence and building AI-powered projects (hands-on, project based)
+
+🧠 Interested in automation, clean code, and problem-solving through technology
+
+🌍 Building clean, responsive front-end interfaces using HTML, CSS, JavaScript, and React
+
+🛒 Working as a Shopify Store Developer (store setup, customization, UI improvements)
+
+🧩 Comfortable with WordPress development for professional and content-driven websites
+
+📫 Reach me at: maliksannanali12345@gmail.com
 
 ### 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=for-the-badge" />
-</p>
-
----
+<p align="center"> <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black&style=for-the-badge" /> <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/React-black?logo=react&logoColor=cyan&style=for-the-badge" /> <img src="https://img.shields.io/badge/Shopify-95BF47?logo=shopify&logoColor=white&style=for-the-badge" /> </p>
 
 ### 📌 Projects
 - [Calculator Project](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Html-Css-Javascript/calculator)
