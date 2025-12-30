@@ -12,7 +12,7 @@
 
 ### 💡 About Me
 
-✍️ Writing clear, practical technical articles on Medium
+✍️ Writing clear, Practical Technical articles on Medium
 
 🧪 Practicing real-world QA testing with Python (manual + logic-driven testing)
 
