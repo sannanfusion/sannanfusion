@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sannan 👋</h1>
 
 <p align="center">
-  <strong>Ai-Oriented Developer | Frontend Developer | React.js | Technical Article Writer | Python Developer | QA Engineer | WordPress/Shopify Store Developer | Learning Ai/Building Ai</strong><br/>
+  <strong>Ai-Oriented Developer | Frontend Developer | React.js | Technical Article Writer | Python Developer | QA Tester | WordPress/Shopify Store Developer | Learning Ai/Building Ai</strong><br/>
   💻 Dedicated to Building clean, Tested, and Performance-Driven Digital Solutions. <br/>
   🚀 Passionate About Automation, Modern web Technologies, and Real-World problem Solving. <br/>
   🌍 Open to Remote Roles, Internships, and Freelance Projects — Based in Pakistan.
