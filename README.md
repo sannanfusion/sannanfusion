@@ -14,11 +14,11 @@
 
 ✍️ Writing clear, Practical Technical articles on Medium.
 
-🧪 Practicing real-world QA testing with Python (manual + logic-driven testing)
+🧪 Practicing real-world QA testing with Python (manual + logic-driven testing).
 
-🤖 Actively learning Artificial Intelligence and building AI-powered projects (hands-on, project based)
+🤖 Actively learning Artificial Intelligence and building AI-powered projects (hands-on, project based).
 
-🧠 Interested in Automation, clean code, and problem-solving through technology
+🧠 Interested in Automation, clean code, and problem-solving through technology.
 
 🌍 Building clean, responsive front-end interfaces using HTML, CSS, JavaScript, and React
 
