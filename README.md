@@ -26,12 +26,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sannanfusion&hide=issues,prs&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sannanfusion&theme=dark&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sannanfusion&theme=dark&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sannanfusion&theme=dark&hide_border=false" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannanfusion&theme=dark&hide_border=false&layout=compact" />
+</p>
+
 
 
 ---
