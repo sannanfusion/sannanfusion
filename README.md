@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>AI-Oriented Developer | Frontend Developer | React.js | Technical Article Writer | Python Developer | QA Tester | WordPress / Shopify Store Developer</strong><br/>
-  💻 Building clean, tested, and performance-driven digital solutions<br/>
+  💻 Building Clean, Tested, and Performance-driven Digital Solutions<br/>
   🚀 Focused on automation, modern web technologies, and real-world problem solving<br/>
   🌍 Open to remote roles, internships, and freelance projects — Based in Pakistan
 </p>
