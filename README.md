@@ -11,7 +11,7 @@
 
 ## 💡 About Me
 
-- ✍️ Writing clear, practical technical articles on Medium  
+- ✍️ Writing Technical articles on Medium  
 - 🧪 Practicing real-world QA testing with Python (manual + logic-driven testing)  
 - 🤖 Actively learning Artificial Intelligence and building AI-powered projects  
 - 🧠 Interested in automation, clean code, and scalable systems  
