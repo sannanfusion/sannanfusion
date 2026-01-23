@@ -3,7 +3,7 @@
 <p align="center">
   <strong>AI-Oriented Developer | Frontend Developer | React.js | Technical Article Writer | Python Developer | QA Tester | WordPress / Shopify Store Developer</strong><br/>
   💻 Building Clean, Tested, and Performance-driven Digital Solutions<br/>
-  🚀 Focused on Automation, Modern Web Technologies, and Real-world Problem Solving<br/>
+  🚀 Focused on Automation, Modern Web Technologies, and Real-World Problem Solving<br/>
   🌍 Open to Remote Roles, Internships, and Freelance Projects — Based in Pakistan.
 </p>
 
@@ -73,6 +73,7 @@
 - [AI Small Business Helper: Building an AI Startup in Pakistan](https://medium.com/@Sannan_Ali/ai-small-business-helper-building-an-ai-startup-as-a-teenager-in-pakistan-27ba047d5f71)
 - [Using Zephyr or Jira as a Beginner QA Tester](https://medium.com/@Sannan_Ali/using-zephyr-or-jira-as-a-beginner-qa-tester-2c149873203d)
 - [Why Every Teen in 2025 Needs Cybersecurity Awareness](https://medium.com/@Sannan_Ali/why-every-teen-in-2025-needs-to-take-cybersecurity-seriously-before-its-too-late-a792984ea006)
+- [How Building Projects Taught Me More Than Any Classroom Lesson](https://medium.com/@Sannan_Ali/how-building-projects-taught-me-more-than-any-classroom-lesson-2d0d9bfdca17)
 
 ---
 
