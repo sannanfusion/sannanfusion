@@ -28,8 +28,9 @@
 
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sannanfusion&theme=dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=sannanfusion&theme=dark&hide_border=false" />
 </p>
+
 
 
 
