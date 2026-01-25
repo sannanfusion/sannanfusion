@@ -62,6 +62,8 @@
 - [React Project – Sea Side Stay](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Front-End-Development-Projects/sea-side-booking)
 - [Internet Speed Test (Python)](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/python/Python-Program-to-%20Test-Internet%20-Speed)
 - [Auto Email Sender](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/python/Auto-Email-Sender)
+- [Live-Crypto-Screen](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Front-End-Development-Projects/Live-Crypto-Screen)
+
 
 ---
 
