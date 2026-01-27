@@ -44,8 +44,10 @@
   <img src="https://img.shields.io/badge/React-black?logo=react&logoColor=cyan&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Shopify-95BF47?logo=shopify&logoColor=white&style=for-the-badge" />
 </p>
+
 
 
 ---
