@@ -25,12 +25,11 @@
 
 ## 📊 GitHub Stats
 
-| |
-|:-:|
-| ![](https://streak-stats.demolab.com?user=sannanfusion&theme=dark&hide_border=true) |
 
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sannanfusion&show_icons=true&theme=dark&hide_border=true" />
+</p>
 
 
 ---
