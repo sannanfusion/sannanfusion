@@ -26,13 +26,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sannanfusion&theme=dark&hide_border=true&card_width=500" />
+  <img 
+    src="https://streak-stats.demolab.com?user=sannanfusion&theme=dark&hide_border=true"
+    style="max-width:100%; height:auto;"
+  />
 </p>
-
-
-
-
-
 
 
 ---
