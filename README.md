@@ -26,13 +26,9 @@
 ## 📊 GitHub Stats
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sannanfusion&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="Sannan's GitHub Stats" />
-</p>
+[![Sannan's Stats](https://github-readme-stats-git-masterhstq-anuraghazras-projects.vercel.app/api?username=sannanfusion&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sannanfusion&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
-</p>
+[![Sannan's Streak](https://streak-stats.demolab.com?user=sannanfusion&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 ---
