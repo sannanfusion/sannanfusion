@@ -28,9 +28,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sannanfusion&show_icons=true&theme=dark&hide_border=true" alt="Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sannanfusion&theme=dark&hide_border=true" alt="Streak" />
-</p>
 
 ---
 
