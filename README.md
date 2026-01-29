@@ -27,11 +27,11 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sannanfusion&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sannanfusion&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="Sannan's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sannanfusion&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sannanfusion&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
 </p>
 
 
