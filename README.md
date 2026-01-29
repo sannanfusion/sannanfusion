@@ -51,17 +51,17 @@
 
 ## 📌 Projects
 
-- [Calculator Project](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Html-Css-Javascript/calculator)
-- [To-Do List Project](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Html-Css-Javascript/To-do-list)
-- [Python Number Guessing Game](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/python/number-guessing-game)
-- [Fastfood Landing Page](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Html-Css-Javascript/Fastfood-Landing-Page)
-- [Image & Text to PDF Converter](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Html-Css-Javascript/Image%2CText-to-pdf-converter)
-- [Signup / Login Page](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Html-Css-Javascript/signup-login-page/login)
-- [Consultry Landing Page](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Front-End-Development-Projects/Consultry-Landing-Page)
-- [React Project – Sea Side Stay](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Front-End-Development-Projects/sea-side-booking)
-- [Internet Speed Test (Python)](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/python/Python-Program-to-%20Test-Internet%20-Speed)
-- [Auto Email Sender](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/python/Auto-Email-Sender)
-- [Live-Crypto-Screen](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Front-End-Development-Projects/Live-Crypto-Screen)
+- <img src="https://skillicons.dev/icons?i=js" height="20"> [Calculator Project](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Html-Css-Javascript/calculator)
+- <img src="https://skillicons.dev/icons?i=js" height="20"> [To-Do List Project](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Html-Css-Javascript/To-do-list)
+- <img src="https://skillicons.dev/icons?i=py" height="20"> [Python Number Guessing Game](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/python/number-guessing-game)
+- <img src="https://skillicons.dev/icons?i=html" height="20"> [Fastfood Landing Page](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Html-Css-Javascript/Fastfood-Landing-Page)
+- <img src="https://skillicons.dev/icons?i=js" height="20"> [Image & Text to PDF Converter](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Html-Css-Javascript/Image%2CText-to-pdf-converter)
+- <img src="https://skillicons.dev/icons?i=css" height="20"> [Signup / Login Page](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Html-Css-Javascript/signup-login-page/login)
+- <img src="https://skillicons.dev/icons?i=html" height="20"> [Consultry Landing Page](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Front-End-Development-Projects/Consultry-Landing-Page)
+- <img src="https://skillicons.dev/icons?i=react" height="20"> [React Project – Sea Side Stay](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Front-End-Development-Projects/sea-side-booking)
+- <img src="https://skillicons.dev/icons?i=py" height="20"> [Internet Speed Test (Python)](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/python/Python-Program-to-%20Test-Internet%20-Speed)
+- <img src="https://skillicons.dev/icons?i=py" height="20"> [Auto Email Sender](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/python/Auto-Email-Sender)
+- <img src="https://skillicons.dev/icons?i=react" height="20"> [Live-Crypto-Screen](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Front-End-Development-Projects/Live-Crypto-Screen)
 
 
 ---
