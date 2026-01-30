@@ -17,7 +17,7 @@
 - 🧠 Interested in Automation, Clean code, and Scalable systems  
 - 🌍 Building responsive front-end interfaces using HTML, CSS, JavaScript, and React. 
 - 🛒 Shopify store setup, customization, and UI improvements  
-- 🧩 WordPress development for Professional and Content-driven websites.  
+- 🧩 WordPress Development for Professional and Content-driven websites.  
 
 📫 **Email:** `maliksannanali12345@gmail.com`
 
