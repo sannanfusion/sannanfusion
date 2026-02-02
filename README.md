@@ -13,7 +13,7 @@
 
 - ✍️ Writing Technical articles on Medium  
 - 🧪 Practicing Real-World QA testing with Python (Manual + logic-driven testing)  
-- 🤖 Actively learning Artificial Intelligence and Building AI-powered projects  
+- 🤖 Actively Learning Artificial Intelligence and Building AI-powered projects  
 - 🧠 Interested in Automation, Clean code, and Scalable systems  
 - 🌍 Building responsive front-end interfaces using HTML, CSS, JavaScript, and React. 
 - 🛒 Shopify store setup, customization, and UI improvements  
