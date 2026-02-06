@@ -16,7 +16,7 @@
 - 🤖 Actively Learning Artificial Intelligence and Building AI-powered projects  
 - 🧠 Interested in Automation, Clean code, and Scalable systems  
 - 🌍 Building responsive front-end interfaces using HTML, CSS, JavaScript, and React. 
-- 🛒 Shopify Store setup, customization, and UI improvements  
+- 🛒 Shopify Store Setup, customization, and UI improvements  
 - 🧩 WordPress Development for Professional and Content-driven Websites.  
 
 📫 **Email:** `maliksannanali12345@gmail.com`
