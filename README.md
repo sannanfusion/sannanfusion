@@ -12,7 +12,7 @@
 ## 💡 About Me
 
 - ✍️ Writing Technical articles on Medium  
-- 🧪 Practicing Real-World QA testing with Python (Manual + logic-driven testing)  
+- 🧪 Practicing Real-World QA Testing with Python (Manual + logic-driven testing)  
 - 🤖 Actively Learning Artificial Intelligence and Building AI-powered projects  
 - 🧠 Interested in Automation, Clean code, and Scalable systems  
 - 🌍 Building responsive front-end interfaces using HTML, CSS, JavaScript, and React. 
