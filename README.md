@@ -15,7 +15,7 @@
 - 🧪 Practicing Real-World QA Testing with Python (Manual + logic-driven testing)  
 - 🤖 Actively Learning Artificial Intelligence and Building AI-powered projects  
 - 🧠 Interested in Automation, Clean code, and Scalable systems  
-- 🌍 Building responsive front-end interfaces using HTML, CSS, JavaScript, and React. 
+- 🌍 Building Responsive front-end interfaces using HTML, CSS, JavaScript, and React. 
 - 🛒 Shopify Store Setup, customization, and UI improvements  
 - 🧩 WordPress Development for Professional and Content-driven Websites.  
 
