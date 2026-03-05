@@ -17,7 +17,7 @@
 - 🧠 Interested in Automation, Clean code, and Scalable Systems  
 - 🌍 Building Responsive Front-end interfaces using HTML, CSS, JavaScript, and React. 
 - 🛒 Shopify Store Setup, Customization, and UI Improvements  
-- 🧩 WordPress Development for Professional and Content-Driven Websites.  
+- 🧩 WordPress Development For Professional and Content-Driven Websites.  
 
 📫 **Email:** `maliksannanali12345@gmail.com`
 
@@ -52,7 +52,7 @@
 ## 📌 Projects
 
 - <img src="https://skillicons.dev/icons?i=js" height="20"> [Calculator Project](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Html-Css-Javascript/calculator)
-- <img src="https://skillicons.dev/icons?i=js" height="20"> [To-Do List Project](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Html-Css-Javascript/To-do-list)
+- <img src="https://skillicons.dev/icons?i=js" height="20"> [To-Do List-Project](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Html-Css-Javascript/To-do-list)
 - <img src="https://skillicons.dev/icons?i=py" height="20"> [Python Number Guessing Game](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/python/number-guessing-game)
 - <img src="https://skillicons.dev/icons?i=html" height="20"> [Fastfood Landing Page](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Html-Css-Javascript/Fastfood-Landing-Page)
 - <img src="https://skillicons.dev/icons?i=js" height="20"> [Image & Text to PDF Converter](https://github.com/sannanfusion/Projects-Sannan-Ali/tree/main/Html-Css-Javascript/Image%2CText-to-pdf-converter)
