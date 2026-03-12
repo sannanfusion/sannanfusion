@@ -75,6 +75,7 @@
 - [Using Zephyr or Jira as a Beginner QA Tester](https://medium.com/@Sannan_Ali/using-zephyr-or-jira-as-a-beginner-qa-tester-2c149873203d)
 - [Why Every Teen in 2025 Needs Cybersecurity Awareness](https://medium.com/@Sannan_Ali/why-every-teen-in-2025-needs-to-take-cybersecurity-seriously-before-its-too-late-a792984ea006)
 - [How Building Projects Taught Me More Than Any Classroom Lesson](https://medium.com/@Sannan_Ali/how-building-projects-taught-me-more-than-any-classroom-lesson-2d0d9bfdca17)
+- [How I Turn Small Coding Skills into Real Projects](https://medium.com/@Sannan_Ali/how-i-turn-small-coding-skills-into-real-projects-b37f573df346)
 
 ---
 
